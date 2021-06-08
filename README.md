@@ -8,15 +8,12 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=i99dev.i99dev&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Delhi University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a full stack web developer 🎓 from ABU DHBAI  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **2** years ago.
+Joined Github **5** years ago.
 
 Since then I pushed **1615**+ commits, opened **215**+ issues, submitted **232**+ pull requests, created **19**+ gists and contributed to **13**+ public repositories.
 
-[![](https://gitwar.herokuapp.com/badge?username=i99dev&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/i99dev/i99dev/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
