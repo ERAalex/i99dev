@@ -22,8 +22,6 @@ Since then I pushed **1615**+ commits, opened **215**+ issues, submitted **232**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/i99dev).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/i99dev/i99dev/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/i99dev/i99dev/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
 
