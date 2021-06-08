@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Obaid Al Tenaiji!](https://github.com/i99dev/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/i99dev)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://i99dev.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://i99.dev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/i99dev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/i99dev/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/i99dev)
@@ -85,31 +85,6 @@ Since then I pushed **1615**+ commits, opened **215**+ issues, submitted **232**
       </tr>
     </thead>
     <tbody>
-      <tr>
-	      <td><a href="https://github.com/i99dev/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/i99dev/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/i99dev/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/i99dev/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/i99dev/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/i99dev/Gitwar?style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/i99dev/TradeByte"><b>💸 TradeByte</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/i99dev/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/i99dev/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/i99dev/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/i99dev/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/i99dev/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/i99dev/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/i99dev/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/i99dev/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/i99dev/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/i99dev/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/i99dev/TheNodeCourse?style=flat-square"/></td> 
-      </tr>
-      <tr>
 	      <td><a href="https://github.com/i99dev/i99dev"><b>🤓 i99dev</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/i99dev/i99dev?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/i99dev/i99dev?style=flat-square&labelColor=343b41"/></td>
@@ -127,13 +102,12 @@ Since then I pushed **1615**+ commits, opened **215**+ issues, submitted **232**
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
+	    <li><b>Laptop: </b> MACBOOK PRO (i5)</li>
+  	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/i99dev/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
