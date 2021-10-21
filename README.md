@@ -1,5 +1,11 @@
 ## Hey 👋, I'm [Obaid Al Tenaiji!](https://github.com/i99dev/)
 
+<details>	
+  <br />
+  <summary><b>🇦🇪 42 ABU DHABI - Codeing School</b></summary>
+	  <img height="180em" src="https://badge42.herokuapp.com/api/stats/oal-tena?cursus=42Cursus" />
+</details>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/i99dev)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/i99dev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/i99dev/)
@@ -104,12 +110,10 @@ Since then I pushed **1615**+ commits, opened **215**+ issues, submitted **232**
 	    <br />
 	</ul>	
 </details>
-
 #
 
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
 
