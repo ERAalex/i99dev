@@ -1,4 +1,6 @@
 ## Hey 👋, I'm [Obaid Al Tenaiji!](https://github.com/i99dev/)
+ ![42](https://badgen.net/badge/Born2Code/i99dev/yellow?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+ ![](https://visitor-badge.glitch.me/badge?page_id=i99dev.i99dev&style=flat-square&color=0088cc)
 
 <details>	
   <br />
@@ -11,7 +13,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/i99dev/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/i99dev)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=i99dev.i99dev&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; !
 
 I'm a full stack web developer 🎓 from ABU DHBAI  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
