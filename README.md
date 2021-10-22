@@ -2,8 +2,8 @@
 
 <details>	
   <br />
-  <summary><b>🇦🇪 42 ABU DHABI - Codeing School</b></summary>
-	  <img height="180em" src="https://badge42.herokuapp.com/api/stats/oal-tena?cursus=42Cursus" />
+  <summary><b>🇦🇪 42 ABU DHABI **Coding School**</b></summary>
+	  <img height="180em" src="https://badge42.herokuapp.com/api/stats/oal-tena?privacyEmail=true" />
 </details>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/i99dev)
