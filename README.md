@@ -19,7 +19,7 @@ I'm a full stack web developer 🎓 from ABU DHBAI  🏛. I'm a passionate learn
 
 Joined Github **5** years ago.
 
-Since then I pushed **1615**+ commits, opened **215**+ issues, submitted **232**+ pull requests, created **19**+ gists and contributed to **13**+ public repositories.
+
 
 
 ### Talking about Personal Stuffs:
