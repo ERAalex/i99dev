@@ -112,7 +112,14 @@ Since then I pushed **1615**+ commits, opened **215**+ issues, submitted **232**
 	    <br />
 	</ul>	
 </details>
-#
+
+<div align="center">
+	
+	
+[![trophy](https://github-profile-trophy.vercel.app/?username=i99dev&row=2&theme=oldie)](https://github.com/i99dev)
+	
+</div>
+
 
 <div align="center">
 
