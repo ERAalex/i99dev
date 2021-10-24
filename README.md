@@ -71,33 +71,6 @@ Since then I pushed **1615**+ commits, opened **215**+ issues, submitted **232**
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=i99dev&hide_border=true" />
 </details>
 
-<details>
-  <summary><b>🧑‍🚀 Open Source Projects</b></summary>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-        <td><b>👨‍💻 Language</b></td>
-      </tr>
-    </thead>
-    <tbody>
-	      <td><a href="https://github.com/i99dev/i99dev"><b>🤓 i99dev</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/i99dev/i99dev?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/i99dev/i99dev?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/i99dev/i99dev?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/i99dev/i99dev?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
-      </tr>
-    </tbody>
-  </table>
-  <br />
-</details>
  
 <details>	
   <br />
