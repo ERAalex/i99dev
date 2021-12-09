@@ -14,7 +14,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/i99dev)
 
 
-[![Profile badge](https://www.codewars.com/users/i99dev/badges/large)](https://www.codewars.com/users/i99dev)
+[![Profile badge](https://www.codewars.com/users/i99dev/badges/small)](https://www.codewars.com/users/i99dev)
 
 ### Glad to see you here! &nbsp; !
 
