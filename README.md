@@ -16,7 +16,6 @@
 
 [![Profile badge](https://www.codewars.com/users/i99dev/badges/small)](https://www.codewars.com/users/i99dev)
 
-![Profile badge](https://tryhackme-badges.s3.amazonaws.com/i99dev.png)
 
 
 
