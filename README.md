@@ -5,7 +5,7 @@
 <details>	
   <br />
   <summary><b>🇦🇪 42 ABU DHABI **Coding School**</b></summary>
-	  <img height="180em" src="https://badge42.herokuapp.com/api/stats/oal-tena?privacyEmail=true" />
+	  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2yoxhg3002509jvvyk1xgl4/stats?cursusId=21&coalitionId=154" alt="oal-tena's 42 stats" /></a>
 </details>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/i99dev)
