@@ -35,7 +35,7 @@ Joined Github **5** years ago.
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/i99dev).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/i99dev/i99dev/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/i99dev/i99dev/issues)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 ### My Absolute Favorites:
