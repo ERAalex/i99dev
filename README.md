@@ -1,3 +1,4 @@
+
 ## Hey 👋, I'm [Obaid Al Tenaiji!](https://github.com/i99dev/)
  ![42](https://badgen.net/badge/Born2Code/i99dev/yellow?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
  ![](https://visitor-badge.glitch.me/badge?page_id=i99dev.i99dev&style=flat-square&color=0088cc)
@@ -8,7 +9,6 @@
 	  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2yoxhg3002509jvvyk1xgl4/stats?cursusId=21&coalitionId=154" alt="oal-tena's 42 stats" /></a>
 </details>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/obaid-alteneiji/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/i99dev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/i99dev/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/i99dev)
@@ -23,9 +23,9 @@
 
 ### Glad to see you here! &nbsp; !
 
-I'm a full stack web developer 🎓 from ABU DHBAI  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a Senior Developer 🎓 from ABU DHBAI  🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github **5** years ago.
+Joined Github **7** years ago.
 
 
 
@@ -33,10 +33,9 @@ Joined Github **5** years ago.
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🚀 &nbsp; I’m currently learning 42 Abu Dhabi.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/i99dev).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/i99dev/i99dev/issues)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 
 ### My Absolute Favorites:
 
@@ -94,12 +93,6 @@ Joined Github **5** years ago.
 	</ul>	
 </details>
 
-<div align="center">
-	
-	
-[![trophy](https://github-profile-trophy.vercel.app/?username=i99dev&row=2&theme=oldie)](https://github.com/i99dev)
-	
-</div>
 
 
 <div align="center">
